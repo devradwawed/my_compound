@@ -1,0 +1,89 @@
+https://demo2.drfuri.com/baroque2/shop/?c_style=2
+https://preview.themeforest.net/item/baroque-architecture-interior-wordpress-theme/full_screen_preview/21348830?_ga=2.170371296.1900243739.1621898631-1210725890.1592949120
+https://demo2.drfuri.com/baroque2/portfolio/?p_style=2
+https://demo2.drfuri.com/baroque/mimimalist-design-of-architect-mark-ruffalo/
+https://demo2.drfuri.com/baroque/blog/
+
+
+
+
+                          <div class="row">
+                              <div class="col-md-12">
+                                  <ul class="pagination">
+                                      <li class="{{ ($paginator->currentPage() == 1) ? ' disabled' : '' }}">
+                                          <a href="#">Previous</a>
+                                      </li>
+
+                                      <li class="active">
+                                          <a href="#">1</a>
+                                      </li>
+
+                                      <li class="disabled">
+                                          <a href="2">Next</a>
+                                      </li>
+                                  </ul>
+                              </div>
+                          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- begin:footer -->
+    <div id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="widget">footer_widget1</div>
+                </div>
+                <!-- break -->
+
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="widget">footer_widget2</div>
+                </div>
+                <!-- break -->
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="widget">footer_widget3</div>
+                </div>
+                <!-- break -->
+            </div>
+            <!-- break -->
+
+            <!-- begin:copyright -->
+            <div class="row">
+                <div class="col-md-12 copyright">
+                    <p>site_copyright</p>
+                    <a href="#top" class="btn btn-primary scroltop"><i class="fa fa-angle-up"></i></a>
+                    <ul class="list-inline social-links">
+                        <li>
+                            <a href="#" class="icon-twitter" rel="tooltip" title="" data-placement="bottom"
+                                data-original-title="Twitter"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li>
+                            <a href="#" class="icon-facebook" rel="tooltip" title="" data-placement="bottom"
+                                data-original-title="Facebook"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li>
+                            <a href="#" class="icon-gplus" rel="tooltip" title="" data-placement="bottom"
+                                data-original-title="Gplus"><i class="fa fa-google-plus"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-- end:copyright -->
+        </div>
+    </div>
+    <!-- end:footer -->

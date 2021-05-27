@@ -1,0 +1,1029 @@
+/*
+    
+   Main Orange Color:  #f08804
+
+   Main dark Color:  #413f37
+
+*/
+
+:root {
+    --alpha: #f08804;
+    --beta: #413f37;
+}
+
+
+
+.flat-row-title h3 {
+    text-align: right;
+}
+
+.product-tab ul.tab-list li {
+    margin-left: 54px;
+    margin-right: auto;
+}
+
+/* Product Tab Style1 */
+.product-tab.style1 ul.tab-list li {
+    margin-left: auto;
+}
+
+.product-box.style1:hover .imagebox .box-bottom {
+    margin-top: 10px;
+}
+
+.imagebox .box-bottom .btn-add-cart a {
+    background-color: #f08804;
+}
+
+    .imagebox .box-bottom .btn-add-cart a img {
+        padding-left: 15px;
+        padding-right: initial;
+    }
+
+.imagebox.style1 .box-content {
+    text-align: right;
+}
+
+.imagebox.style1 .box-bottom .btn-add-cart {
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+}
+
+.imagebox.style1 .box-bottom .compare-wishlist {
+    margin-bottom: 0px;
+    margin-top: auto;
+}
+
+.box-counter .product-item {
+    overflow: hidden;
+}
+
+    .box-counter .product-item .imagebox.style3 .box-bottom {
+        text-align: center;
+    }
+
+.imagebox.style3 .box-content {
+    text-align: right;
+}
+
+.imagebox.style4 {
+    height: 315px;
+}
+
+    .imagebox.style4 .box-content {
+        text-align: right;
+    }
+
+.details_similar .imagebox.style4 {
+    height: 380px;
+}
+/* Flat Infomation Style1 */
+ul.flat-infomation.style1 {
+    float: left;
+}
+
+    ul.flat-infomation.style1 li.phone {
+        margin-left: 1px;
+        margin-right: auto;
+    }
+
+/*ul.flat-infomation.style1 li img {
+        margin-left: 11px;
+        margin-right: auto;
+    }*/
+
+/* Slider */
+
+
+.slider .slider-item .item-text .content-item .price .sale {
+    margin-right: -60px;
+    margin-left: 21px;
+    float: right;
+}
+
+.slider .slider-item .item-image {
+    float: left;
+}
+
+.slider .slider-item.style8 .item-text {
+    float: right;
+    text-align: right;
+}
+
+    .slider .slider-item.style8 .item-text .content-item .btn-shop a {
+        margin-right: 4px;
+        margin-left: auto;
+    }
+
+    .slider .slider-item.style8 .item-text .header-item h2 {
+        font-size: 45px;
+    }
+
+.btn-shop a img {
+    padding-left: initial;
+    padding-right: 15px;
+}
+
+
+
+
+/* Owl Carousel-10 */
+.owl-carousel-10.owl-theme .owl-controls .owl-dots {
+    left: 10px;
+    right: auto;
+}
+
+/* .wrap-imagebox .box-product .row .imagebox:hover {} */
+/* .table-compare {} */
+
+
+.accordion-toggle .toggle-title:before {
+    left: 37.5px;
+    right: auto;
+}
+
+.accordion-toggle .toggle-title:after {
+    left: 30.5px;
+    right: auto;
+}
+
+.accordion-toggle .toggle-title {
+    padding: 19px 50px 13px;
+}
+
+#form-contact .form-box {
+    text-align: right;
+}
+
+.form-input .form-box .form-box-content .dropdown-title:before {
+    left: 30px;
+    right: auto;
+}
+
+.form-input .form-box .form-box-content .dropdown-title {
+    padding-right: 30px;
+    padding-left: initial;
+}
+
+.wrap-imagebox .flat-row-title span {
+    float: left;
+}
+
+.fields-content .field-row label {
+    margin-right: 2px;
+    margin-left: auto;
+}
+
+.fields-content .field-row .field-one-half {
+    float: right;
+}
+
+    .fields-content .field-row .field-one-half:first-child {
+        padding-left: 15px;
+        padding-right: initial;
+    }
+
+    .fields-content .field-row .field-one-half:nth-child(2) {
+        padding-right: 15px;
+        padding-left: initial;
+    }
+
+.checkbox label {
+    padding-right: 15px;
+    padding-left: initial;
+}
+
+table.product thead tr th:last-child {
+    text-align: left;
+}
+
+.cart-totals table tr td:nth-child(1) {
+    text-align: right;
+}
+
+.cart-totals table tr td:last-child {
+    float: left;
+    text-align: left;
+}
+
+.btn-radio .radio-info label:before {
+    right: 0;
+    left: auto;
+}
+
+.btn-radio .radio-info label:after {
+    right: 0;
+    left: auto;
+}
+
+.btn-radio.style2 .radio-info label {
+    padding-right: 12px;
+    padding-left: initial;
+}
+
+    .btn-radio.style2 .radio-info label:before,
+    .btn-radio.style2 .radio-info label:after {
+        right: -17px;
+        left: auto;
+    }
+
+.cart-totals.style2 form .checkbox {
+    margin-right: -3px;
+    margin-left: auto;
+}
+
+.checkbox label:before,
+.checkbox label:after {
+    right: -18px;
+    left: auto;
+    top: 3px;
+}
+
+.text-about {
+    margin-right: -65px;
+    margin-left: 6px;
+    padding: 76px 74px 78px 38px;
+}
+
+ul.brands-tablist {
+    padding: 31px 110px 24px 50px;
+}
+
+/*********** Compare ***********/
+.table-compare tr th {
+    padding-right: 54px;
+    padding-left: initial;
+}
+
+.table-compare tr td.add-cart a img {
+    padding-left: 16px;
+    padding-right: initial;
+}
+
+.table-compare tbody tr td.price {
+    color: grey;
+    font-size: 16px;
+}
+
+    .table-compare tbody tr td.price span.number {
+        color: var(--alpha);
+        font-weight: 500;
+        font-size: 22px;
+    }
+
+.table-compare tr td.delete img {
+    width: 16px;
+}
+
+
+
+/*********** Contact ***********/
+.iconbox.style2 ul.social-list.style2 li {
+    margin-left: 18px;
+    margin-right: auto;
+}
+
+#form-contact .form-box.one-half {
+    float: right;
+}
+
+    #form-contact .form-box.one-half.name-contact {
+        padding-left: 15px;
+        padding-right: initial;
+    }
+
+    #form-contact .form-box.one-half.password-contact {
+        padding-right: 15px;
+        padding-left: initial;
+    }
+
+/*********** my_account ***********/
+
+.form-login .form-box, .form-register .form-box {
+    padding-left: 4px;
+    padding-right: initial;
+}
+
+    .form-login .form-box button {
+        margin-left: 30px;
+        margin-right: -8px;
+    }
+
+.background {
+    background-color: #f5f5f5;
+}
+
+/*********** order_tracking ***********/
+.order-tracking form .one-half {
+    float: right;
+    text-align: right;
+}
+
+    .order-tracking form .one-half input {
+        padding-right: 27px;
+        padding-left: initial;
+    }
+
+.row .col-md-3:nth-child(4) .iconbox.style1 .box-header .box-title {
+    padding-left: 20px;
+}
+
+/*********** Shop_Cart ***********/
+
+.mCSB_horizontal > .mCSB_container.mCS_no_scrollbar_x.mCS_x_hidden {
+    right: 0px;
+    left: auto;
+}
+
+.table-cart tr td .img-product {
+    float: right;
+    margin-right: 8px;
+    margin-left: 31px;
+}
+
+.table-cart tr td .name-product {
+    float: right;
+}
+
+.table-cart tr td .price {
+    text-align: left;
+    margin-right: auto;
+    margin-left: 40px;
+}
+
+.table-cart tr td .quanlity span.btn-down {
+    right: 22px;
+    left: auto;
+}
+
+.table-cart tr td .quanlity span.btn-up {
+    left: 56px;
+    right: auto;
+}
+
+.table-cart tr td .quanlity input {
+    padding: 15px 55px;
+}
+
+.table-cart tr td:nth-child(4) {
+    text-align: left;
+}
+
+.form-coupon form input {
+    margin-left: 13px;
+    margin-right: auto;
+}
+
+.cart-totals table tr td {
+    padding: 16px 0 11px;
+}
+
+    .cart-totals table tr td:last-child {
+        float: none;
+    }
+
+/*********** term_condition ***********/
+
+.term-conditions .text-wrap p {
+    padding-left: 100px;
+    padding-right: initial;
+}
+
+/*********** store_location ***********/
+
+.flat-location .location, .flat-location .location-detail, .flat-location #flat-map-2 {
+    float: right;
+}
+
+.location .location-content .select-location .select:before {
+    left: 50px;
+    right: auto;
+}
+
+.location .location-content .select-location select {
+    margin-left: 19px;
+    margin-right: auto;
+    width: 92px;
+}
+
+.location .location-content .select-location a img {
+    padding-left: 14px;
+    padding-right: initial;
+}
+
+.location .location-content ul.location-list {
+    padding-right: 3px;
+    padding-left: initial;
+}
+
+.location-content .mCS-dir-rtl > .mCSB_inside > .mCSB_container {
+    margin-right: 0;
+    right: 0 !important;
+    margin-left: 30px;
+    left: auto !important;
+}
+
+.location-content .mCS-dir-rtl > .mCSB_inside > .mCSB_scrollTools, .mCS-dir-rtl > .mCSB_outside + .mCSB_scrollTools {
+    right: auto !important;
+    left: 0;
+}
+/*********** wishlist ***********/
+.table-wishlist tbody tr td > div.delete {
+    margin-left: 84px;
+    margin-right: auto;
+}
+
+    .table-wishlist tbody tr td > div.delete img {
+        width: 16px;
+    }
+
+.table-wishlist tbody tr td > div.product .name {
+    margin-right: 24px;
+    margin-left: auto;
+    color: var(--beta);
+}
+
+.table-wishlist tbody tr td > div.price {
+    color: grey;
+    font-size: 16px;
+}
+
+    .table-wishlist tbody tr td > div.price span.number {
+        color: var(--alpha);
+        font-weight: 500;
+        font-size: 22px;
+    }
+
+.table-wishlist tbody tr td > div.add-cart a {
+    margin-left: 3px;
+    margin-right: auto;
+    background-color: var(--alpha);
+}
+
+    .table-wishlist tbody tr td > div.add-cart a img {
+        padding-left: 16px;
+        padding-right: initial;
+    }
+
+
+.location-detail span {
+    left: 34px;
+    right: auto;
+}
+
+.location-detail .image-location {
+    margin-right: 3px;
+    margin-left: auto;
+}
+
+/*********** single_product ***********/
+
+.queue i {
+    margin-left: 5px;
+    margin-right: auto;
+}
+
+.reviewed .review .text .add-review {
+    margin-right: 11px;
+    margin-left: auto;
+}
+
+.reviewed .status-product {
+    float: left;
+}
+
+    .reviewed .status-product span {
+        margin-right: 15px;
+        margin-left: auto;
+    }
+
+.product-detail .footer-detail .quanlity-box > div.colors {
+    margin-left: 8px;
+    margin-right: auto;
+}
+
+    .product-detail .footer-detail .quanlity-box > div.colors:before {
+        left: 22px;
+        right: auto;
+    }
+
+.product-detail .footer-detail .quanlity-box > div.quanlity .btn-down {
+    right: 20px;
+    left: auto;
+}
+
+    .product-detail .footer-detail .quanlity-box > div.quanlity .btn-down:after {
+        right: 0px;
+        left: auto;
+    }
+
+.product-detail .footer-detail .quanlity-box > div.quanlity .btn-up {
+    left: 20px;
+    right: auto;
+}
+
+    .product-detail .footer-detail .quanlity-box > div.quanlity .btn-up:before {
+        left: 6.5px;
+        right: auto;
+    }
+
+    .product-detail .footer-detail .quanlity-box > div.quanlity .btn-up:after {
+        left: 0px;
+        right: auto;
+    }
+
+.box-cart.style2 .btn-add-cart a img {
+    padding-left: 18px;
+    padding-right: initial;
+}
+
+.box-cart.style2 .compare-wishlist {
+    margin-left: auto;
+    display: flex;
+    justify-content: flex-end;
+    direction: ltr;
+    margin-right: initial;
+}
+
+    .box-cart.style2 .compare-wishlist a.compare {
+        margin-left: 14px;
+        margin-right: auto;
+    }
+
+    .box-cart.style2 .compare-wishlist a img {
+        padding-left: 10px;
+        padding-right: initial;
+    }
+
+.product-detail .footer-detail .social-single span {
+    margin-left: 25px;
+    margin-right: auto;
+}
+
+.product-detail .footer-detail .social-single ul.social-list li {
+    margin-left: 20px;
+    margin-right: auto;
+}
+
+.description-image {
+    margin-left: 2px;
+    margin-right: auto;
+}
+
+    .description-image .box-image {
+        text-align: left;
+    }
+
+.different-color p {
+    padding-right: 5px;
+    padding-left: initial;
+}
+
+.box-left .img-line {
+    text-align: left;
+    padding-left: 103px;
+    padding-right: initial;
+}
+
+.box-left .img-product {
+    padding-right: 12px;
+    padding-left: initial;
+}
+
+.box-right .img-line {
+    text-align: right;
+    padding-right: 88px;
+    padding-left: initial;
+}
+
+    .box-right .img-line img:first-child {
+        margin-left: -9px;
+        margin-right: auto;
+    }
+
+.box-right .box-text {
+    margin-left: 3px;
+    margin-right: auto;
+}
+
+.rating .score .queue {
+    margin-right: 25px;
+    margin-left: auto;
+}
+
+    .rating .score .queue i {
+        margin-left: 8px;
+        margin-right: auto;
+    }
+
+.rating .queue-box li span i {
+    margin-right: 8px;
+}
+
+.rating .queue-box li span.numb-star {
+    margin-right: 20px;
+    margin-left: auto;
+}
+
+    .rating .queue-box li span.numb-star:before {
+        left: -5px;
+        right: auto;
+    }
+
+    .rating .queue-box li span.numb-star:after {
+        right: 30px;
+        left: auto;
+    }
+
+.form-review .your-rating span {
+    margin-left: 18px;
+    margin-right: auto;
+}
+
+.form-review select, textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], input[type="email"] {
+    padding: 8px 25px 8px 30px;
+}
+
+.review-list .review-metadata .queue {
+    float: left;
+}
+
+.prod-detail .box-cart.style2 {
+    text-align: center;
+}
+
+.prod-detail {
+    background-color: #f5f5f5;
+}
+
+.product-box .imagebox.style1 {
+    text-align: right;
+}
+
+    .product-box .imagebox.style1.v3 .box-image {
+        float: right;
+        margin-left: 15px;
+        margin-right: auto;
+        border: none;
+    }
+
+    .product-box .imagebox.style1.v3 .box-content {
+        padding-left: 15px;
+        padding-right: initial;
+        float: right;
+    }
+
+    .product-box .imagebox.style1.v3 .box-price {
+        padding: 30px 67px 0 2px;
+    }
+
+        .product-box .imagebox.style1.v3 .box-price .btn-add-cart a {
+            text-align: right;
+        }
+
+            .product-box .imagebox.style1.v3 .box-price .btn-add-cart a img {
+                padding-left: 18px;
+                padding-right: initial;
+                padding: 0 41px 0 20px;
+            }
+
+        .product-box .imagebox.style1.v3 .box-price .compare {
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .product-box .imagebox.style1.v3 .box-price .compare-wishlist a img {
+            margin-left: 10px;
+            margin-right: auto;
+        }
+
+.main-shop .wrap-imagebox .flat-row-title {
+    margin: 40px 0;
+    /*margin-bottom:40px;*/
+}
+
+section.price-section {
+    margin: 40px;
+    background-color: #fff;
+    border-radius: 5px;
+    border-bottom: 2px solid #dfdfdf;
+}
+
+.price-section {
+    margin-top: auto;
+    background-color: #f5f5f5;
+}
+
+    .price-section .flat-row-title .sort-product {
+        padding: initial;
+        display: inline;
+    }
+
+    .price-section .table thead th {
+        font-weight: 600;
+        padding-bottom: 30px;
+    }
+
+    .price-section table .box-cart.style2 {
+        text-align: right;
+    }
+
+.product-box .box-cart.style2 {
+    margin-top: auto;
+}
+
+.price-section table .box-cart.style2 .btn-add-cart a {
+    height: 50px;
+    line-height: 50px;
+    width: 160px;
+    font-size: 14px;
+    /* color: rgb(114, 114, 114); */
+    /* background-color: rgb(229, 229, 229); */
+    box-shadow: 0 1px 1.5px 1px rgba(0,0,0,.12);
+    /* border-radius: 4px; */
+}
+
+
+.price-section .flat-row-title h3 {
+    display: inline;
+}
+
+.price-section .sort-product .sort {
+    margin-bottom: 20px;
+}
+
+
+
+.control-box h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.control-box {
+    border: 1px solid #dddcd8;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+    .control-box .links {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+        .control-box .links li {
+            margin-bottom: 10px;
+        }
+
+            .control-box .links li a {
+                color: #aa1212;
+                text-decoration: underline;
+            }
+
+.content {
+    margin-top: 20px;
+}
+
+.breadcrumb p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #777;
+    font-size: 14px;
+}
+
+    .breadcrumb p a {
+        color: #aa1212;
+    }
+
+.main-content h6 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 27px;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+.main-content p {
+    font-size: 17px;
+    color: #777;
+    line-height: 29px;
+    margin-bottom: 20px;
+}
+
+.main-content img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.main-content h1 {
+    margin-bottom: 20px;
+}
+
+.sidenav a {
+    padding: 4px;
+    border-bottom: 1px solid #dddcd8;
+    display: block;
+    margin-bottom: 10px;
+}
+
+/*.sidenav {
+    position: sticky;
+    z-index: 1;
+    top: 0;
+    left: 10px;
+    background: #eee;
+    overflow: visible;
+    padding: 8px 0;
+    display:block;
+}*/
+
+
+.owl-carousel-12.owl-theme .owl-controls .owl-nav div.owl-next {
+    left: 24px;
+    right: auto;
+}
+
+.owl-carousel-12.owl-theme .owl-controls .owl-nav div.owl-prev {
+    left: 66px;
+    right: auto;
+}
+/*.owl-theme .owl-controls .owl-nav div.owl-prev:before {
+    content: '\f178';
+}
+.owl-theme .owl-controls .owl-nav div.owl-next:before {
+    content: "\f177";
+}*/
+
+/*********** Supplier_products ***********/
+.box-wrap .flat-row-title h3 {
+    padding: 29px 20px 20px 35px;
+}
+
+.box-owl-carousel .rows .imagebox.style1.v1 .box-image {
+    margin-left: 7px;
+    margin-right: auto;
+}
+
+.slider .slider-item .item-image {
+    padding-left: 75px;
+    padding-right: initial;
+}
+
+.box-owl-carousel.style1 .imagebox.style7 .box-image {
+    overflow: hidden;
+}
+/*********** Font_family ***********/
+.product-tab ul.tab-list li {
+    font-family: Tajawal;
+}
+
+.counter.style1 .item-sale {
+    font-family: Tajawal;
+}
+
+.counter.style1 .item-special {
+    font-family: Tajawal;
+}
+
+.count-down .square .numb {
+    font-family: Tajawal;
+}
+
+.count-down .square .text {
+    font-family: Tajawal;
+}
+
+.slider .slider-item .item-text .header-item p {
+    font-family: Tajawal;
+}
+
+    .slider .slider-item .item-text .header-item p:last-child {
+        font-family: Tajawal;
+    }
+
+.slider .slider-item .item-text .header-item h2 {
+    font-family: Tajawal;
+}
+
+.slider .slider-item .item-text .content-item .regular {
+    font-family: Tajawal;
+}
+
+.slider .slider-item .item-image .sale-off {
+    font-family: Tajawal;
+}
+
+    .slider .slider-item .item-image .sale-off span {
+        font-family: Tajawal;
+    }
+
+.slider .slider-item.style1 .item-text .header-item p:last-child {
+    font-family: Tajawal;
+}
+
+.slider .slider-item.style4 .item-text .header-item p:last-child {
+    font-family: Tajawal;
+}
+
+.slider .slider-item.style6 .item-text .header-item p:last-child,
+.slider .slider-item.style7 .item-text .header-item p:last-child {
+    font-family: Tajawal;
+}
+
+.flat-newsletter .form-newsletter .left .title {
+    font-family: Tajawal;
+}
+
+.product-detail .header-detail h4.name {
+    font-family: Tajawal;
+}
+
+.product-detail-bar li {
+    font-family: Tajawal;
+}
+
+.box-text h4 {
+    font-family: Tajawal;
+}
+
+.tecnical-specs .name {
+    font-family: Tajawal;
+}
+
+.form-review form .btn-submit button {
+    font-family: Tajawal;
+}
+
+.table-cart tr td .price {
+    font-family: Tajawal;
+}
+
+.table-cart tr td .total {
+    font-family: Tajawal;
+}
+
+.form-coupon form button {
+    font-family: Tajawal;
+}
+
+.cart-totals h3 {
+    font-family: Tajawal;
+}
+
+.cart-totals table tr td.subtotal {
+    font-family: Tajawal;
+}
+
+.cart-totals table tr td.price-total {
+    font-family: Tajawal;
+}
+
+.billing-fields .fields-title h3,
+.shipping-address-fields .fields-title h3 {
+    font-family: Tajawal;
+}
+
+.flat-tab ul.tab-list li {
+    font-family: Tajawal;
+    font-size: 16px;
+}
+
+.top-search form.form-search .cat-wrap select,
+.top-search.style1 form.form-search .box-search input {
+    font-family: Tajawal;
+}
+
+.product-box.style1.v1 {
+    height: 260px;
+}
+
+.product-box.style1 .imagebox.style1 {
+    min-height: 300px;
+}
+
+.flat-imagebox.style2 .product-wrap .tab-item .row .col-md-6 .product-box .imagebox .box-bottom .compare-wishlist {
+    display: flex;
+    justify-content: space-around;
+}
+
+.imagebox .box-bottom .compare-wishlist {
+    display: flex;
+    justify-content: space-around;
+}
+
+    .imagebox .box-bottom .compare-wishlist a.compare {
+        margin-left: 14px;
+    }
+
+    .imagebox .box-bottom .compare-wishlist a img {
+        padding-left: 10px;
+        padding-right: initial;
+    }
+
+.home .imagebox .box-bottom .compare-wishlist a img {
+    padding-left: initial;
+    padding-right: 10px;
+}

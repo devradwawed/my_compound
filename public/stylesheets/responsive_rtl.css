@@ -1,0 +1,43 @@
+
+@media only screen and (min-width:1200px) and (max-width:1366px) {
+
+    #mega-menu > ul.menu > li .drop-menu {
+        right: 258px;
+        left: auto;
+        width: 879px;
+    }
+
+    .flat-location .location {
+        width: 392px !important;
+    }
+
+    .flat-location .location-detail {
+        width: 300px;
+    }
+
+    .flat-location #flat-map-2 {
+        width: calc(100% - 300px - 392px);
+    }
+}
+
+@media only screen and (max-width:1199px) {
+
+
+    #mega-menu > ul.menu > li .drop-menu {
+        width: 704px;
+        right: 255px;
+        left: auto;
+    }
+
+    .mainnav.style1 ul.menu > li > a {
+        margin-left: 22px;
+    }
+}
+
+
+@media only screen and (min-width:992px) {
+    .submenu {
+        left: 15px;
+        right: auto;
+    }
+}
